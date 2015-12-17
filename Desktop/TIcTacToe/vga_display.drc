@@ -1,0 +1,8 @@
+Release 14.2 Drc P.28xd (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+Sun Dec 13 14:21:27 2015
+
+drc -z vga_display.ncd vga_display.pcf
+
+DRC detected 0 errors and 0 warnings.
